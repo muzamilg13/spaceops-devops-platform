@@ -158,7 +158,5 @@ nodeSelector: {}
 
 tolerations: []
 
-affinity: {}
-
-secret:
-  nasaApiKey: ""
+affinity: {
+nma,az   " "

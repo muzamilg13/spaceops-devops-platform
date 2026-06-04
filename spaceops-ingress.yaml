@@ -18,7 +18,7 @@ spec:
 
             backend:
               service:
-                name: backend-release
+                name: spaceops-backend
                 port:
                   number: 8000
 
@@ -27,6 +27,6 @@ spec:
 
             backend:
               service:
-                name: frontend-release
+                name: spaceops-frontend
                 port:
                   number: 80
